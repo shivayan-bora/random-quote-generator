@@ -1,6 +1,6 @@
 # Random Quote Generator
 
-This is a project created with plain HTML, CSS and Vanilla JavaScript alongwith the [html2canvas](https://html2canvas.hertzen.com/getting-started) library for taking screenshots of the webpage and downloading the quote to your local.
+This is a project created with plain HTML, CSS and Vanilla JavaScript alongwith the [html2canvas](https://html2canvas.hertzen.com/getting-started) library for taking screenshots of the webpage and downloading the quote to your local. You can check the project out [here](https://shivayan-bora.github.io/random-quote-generator).
 
 ## Features
 - Fully responsive.
